@@ -55,17 +55,17 @@ background-color: #4dbf6f;
 height: 30px;
 }
 .nine{
-background-color:#698ad6;
+background-color:hsl(300, 63%, 81%);
 
 height: 30px;
 }
 .ten{
-    background-color: #e087b6;
+    background-color: #f3a3cd;
     height: 30px;
     
 }
 .eleven{
-    background-color: #d973a9;
+    background-color: #ee87be;
     height: 30px;
 }
 .twelve{
