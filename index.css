@@ -1,15 +1,24 @@
+*{
+margin: 0;
+padding: 5px; 
+}
 body{
     background-color: silver;
     color: white;
     margin: 10px;
-    padding: 5px;
+
 }
 
 .bgcolor-white{
 background-color: #ffffff;
 color: black;
-padding: 10px;
+/* padding: 10px; */
+margin-bottom: 40px;
 
+
+}
+.container{
+    /* margin: 10px; */
 }
 .one{
     background-color: #3d6dd9;
@@ -21,15 +30,15 @@ padding: 10px;
     height: 30px;
 }
 .three{
-    background-color: #537fe6;
+    background-color: #4173e7;
     height: 30px;
 }
 .four{
-  background-color: #527dde;
+  background-color: #537fe6;
   height: 30px;
 }
 .five{
-background-color: #658ce6;
+background-color: #678ade;
 height: 30px;
 }
 .six{
